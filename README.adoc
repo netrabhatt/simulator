@@ -14,7 +14,7 @@ image::src/main/resources/class-diagram.png[]
 
 .Execution Instructions:
 - Prerequisites: `Java 17` and `Maven` shall be installed on the machine.
-- clone the `git clone https://github.com/netrabhatt/simulator.git`
+- Clone the  repo using command `git clone https://github.com/netrabhatt/simulator.git`
 - Open terminal/console and `cd simulator`
 - Compile using command: `mvn clean install`
 - Run using command:
